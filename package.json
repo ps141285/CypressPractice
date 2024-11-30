@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "manoj",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.16.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
